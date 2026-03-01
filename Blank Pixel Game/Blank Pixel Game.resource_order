@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"group1","order":5,"path":"folders/group1.yy",},
+    {"name":"object","order":1,"path":"folders/object.yy",},
+    {"name":"sprite","order":2,"path":"folders/sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
+    {"name":"Object5","order":4,"path":"objects/Object5/Object5.yy",},
+    {"name":"Room1","order":3,"path":"rooms/Room1/Room1.yy",},
+    {"name":"Room2","order":4,"path":"rooms/Room2/Room2.yy",},
+    {"name":"obj2","order":1,"path":"sprites/obj2/obj2.yy",},
+    {"name":"obj3","order":2,"path":"sprites/obj3/obj3.yy",},
+    {"name":"obj4","order":3,"path":"sprites/obj4/obj4.yy",},
+    {"name":"obj5","order":4,"path":"sprites/obj5/obj5.yy",},
+  ],
+}
